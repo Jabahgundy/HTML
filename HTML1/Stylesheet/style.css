@@ -1,0 +1,26 @@
+body {
+    background-image: url(raven.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+h1 {
+
+    text-align: center;
+    color: blue;
+
+}
+
+p { 
+    
+    font-family:'Times New Roman', Times, serif;
+    font-size: 20px;
+    color: azure;  
+    
+
+}
+
+img {
+    width: fit-content;
+    
+}
